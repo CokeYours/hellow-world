@@ -1,2 +1,8 @@
 # hellow-world
-just new repository
+#include<stdio.h>
+int main (vodi)
+{
+  printf("Hellow-World!");
+  
+  return 0;
+ }
